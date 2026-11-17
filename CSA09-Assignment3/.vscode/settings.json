@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "Q1_BankATM",
+        "Q2_ExamPortal",
+        "Q3_DailySalesReport",
+        "Q4_ParallelScanning",
+        "Q5_CinemaSeatBooking",
+        "Q6_DeadlockAndTokenCounter",
+        "Q7_SemesterResultProcessor"
+    ],
+    "java.project.outputPath": "bin",
+    "files.exclude": {
+        "bin": true
+    }
+}
